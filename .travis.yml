@@ -35,7 +35,7 @@ jobs:
         - sudo apt-get -y install jq
       script:
         - echo "Downloading $RELEASE_TAG"
-        - wget -P build/libs https://github.com/$GITHUB_USERNAME/pal-tracker/releases/download/$RELEASE_TAG/cal-excellence-1.0-SNAPSHOT.jar
+        - wget -P build/libs https://github.com/$GITHUB_USERNAME/calc-excellence/releases/download/$RELEASE_TAG/cal-excellence-1.0-SNAPSHOT.jar
       before_deploy:
         - echo "Deploying $RELEASE_TAG to Cloud Foundry"
       before_script:
