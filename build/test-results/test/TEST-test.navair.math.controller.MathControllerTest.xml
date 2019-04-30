@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.navair.math.controller.MathControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-04-29T15:36:43" hostname="magazine" time="0.054">
+  <properties/>
+  <testcase name="divideTest" classname="test.navair.math.controller.MathControllerTest" time="0.052"/>
+  <testcase name="addTest" classname="test.navair.math.controller.MathControllerTest" time="0.0"/>
+  <testcase name="multiplyTest" classname="test.navair.math.controller.MathControllerTest" time="0.001"/>
+  <testcase name="subtractTest" classname="test.navair.math.controller.MathControllerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
